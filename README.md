@@ -12,7 +12,6 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210829-125711_Termux](https://user-images.githubusercontent.com/81049859/131258893-e0e74988-ec7a-4157-8d90-01550bbfb8b7.png)
 
 
 ## LTunnelCj7 :
