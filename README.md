@@ -15,7 +15,7 @@
 ![Screenshot_20210926-235225_Termux](https://user-images.githubusercontent.com/81049859/134843677-b652bfa4-cc6f-4b8f-b1dc-5d4bc89be251.png)
 
 ## LoclxCj7 :
-* Instala **LocalXpose** en Termux correctamente y sin errores.
+* Instala **LocalXpose** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
