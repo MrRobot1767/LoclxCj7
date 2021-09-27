@@ -14,9 +14,8 @@
 ## Menú Principal :
 ![Screenshot_20210926-235225_Termux](https://user-images.githubusercontent.com/81049859/134843677-b652bfa4-cc6f-4b8f-b1dc-5d4bc89be251.png)
 
-
-## LTunnelCj7 :
-* Instala **LocalTunnel** en Termux correctamente y sin errores.
+## LoclxCj7 :
+* Instala **LocalXpose** en Termux correctamente y sin errores.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -30,13 +29,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt update && apt upgrade -y `
 
-* ` git clone https://github.com/Juliocj7/LTunnelCj7 `
+* ` git clone https://github.com/Juliocj7/LoclxCj7 `
 
-* ` cd LTunnelCj7 `
+* ` cd LoclxCj7 `
 
 * ` chmod +x * `
 
-* ` ./LTunnelCj7 `
+* ` ./LoclxCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
